@@ -85,11 +85,11 @@ python cp_api_client.py
 
 ---
 
-💡 How to Use
+###💡 How to Use
 
 Run the script from your terminal:
 
-#You need URL of our current running Server and API key of our Website.
+##You need URL of our current running Server and API key of our Website.
 
 > ⚠️ This file is private and is excluded from version control using .gitignore.
 
