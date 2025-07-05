@@ -37,12 +37,15 @@ This Python script (`cp_api_client.py`) is a lightweight client to interact with
 ### You need URL of our current running Server and API key of our Website.
 
 > To Get URL, contact User on Telegram.
-[ t.me/codepreceptor2 
+
+ https://t.me/codepreceptor2 
 
 Run the script from your terminal:
 
+
 ```bash
 python cp_api_client.py
+
 ```
 ### You'll be prompted to:
 
@@ -65,14 +68,13 @@ python cp_api_client.py
 
 
 ---
----
+
 ## 🧑‍💻 Author Section
 
 **Code Preceptor** 
-💻 [ https://youtube.com/@codepreceptor 
+💻  https://youtube.com/@codepreceptor 
 
 
----
 
 
 
