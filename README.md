@@ -15,7 +15,7 @@ This Python script (`cp_api_client.py`) is a lightweight client to interact with
 - 📊 Future-ready for usage analytics
 
 ---
----
+
 ## 📦 Requirements
 
 - Python 3.6 or above
@@ -25,10 +25,10 @@ This Python script (`cp_api_client.py`) is a lightweight client to interact with
 pip install requests
 ```
 ---
----
-##📄 Usage Section
 
-#You need URL of our current running Server and API key of our Website.
+# 📄 Usage Section
+
+### You need URL of our current running Server and API key of our Website.
 
 > ⚠️ This file is private and is excluded from version control using .gitignore.
 
@@ -46,18 +46,17 @@ Run the script from your terminal:
 ```bash
 python cp_api_client.py
 ```
-'''
-You'll be prompted to:
+### You'll be prompted to:
 
-Select an action (e.g., shorten a URL, lookup IP, etc.)
+> Select an action (e.g., shorten a URL, lookup IP, etc.)
 
-Enter the required input
+> Enter the required input
 
-View the response from the API
+> View the response from the API
 
 
 ---
----
+
 ## 🔐 Security Advice
 
 - Never share your `.cp_config.json` file or API key publicly.
@@ -74,7 +73,6 @@ View the response from the API
 
 
 ---
-
 
 
 
