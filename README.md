@@ -23,7 +23,7 @@ This Python script (`cp_api_client.py`) is a lightweight client to interact with
 
 ```bash
 pip install requests
-
+```
 ---
 
 📄 Usage Section
@@ -34,6 +34,7 @@ Run the script from your terminal:
 
 ```bash
 python cp_api_client.py
+```
 '''
 You'll be prompted to:
 
@@ -47,7 +48,7 @@ View the response from the API
 ---
 
 ### 🔐 Security Advice Section
-```markdown
+##markdown
 ## 🔐 Security Advice
 
 - Never share your `.cp_config.json` file or API key publicly.
@@ -76,18 +77,9 @@ View the response from the API
 ```bash
 git clone https://github.com/codepreceptor/cp-client.git
 cd cp-client
+python cp_api_client.py
 
-2. Create a .cp_config.json file:
-
-
-
-{
-  "api_url": "https://your-api-url.com",
-  "api_key": "your_api_token_here"
-}
-
-> ⚠️ This file is private and is excluded from version control using .gitignore.
-
+```
 
 
 
@@ -97,7 +89,10 @@ cd cp-client
 
 Run the script from your terminal:
 
-python cp_api_client.py
+#You need URL of our current running Server and API key of our Website.
+
+> ⚠️ This file is private and is excluded from version control using .gitignore.
+
 
 You'll be prompted to:
 
@@ -109,6 +104,4 @@ View the response from the API
 
 
 ---
-
-If you want, I can provide all these combined in a single block or help with any other README section!
 
