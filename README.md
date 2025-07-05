@@ -26,9 +26,9 @@ pip install requests
 ```
 ---
 ---
-###📄 Usage Section
+##📄 Usage Section
 
-##You need URL of our current running Server and API key of our Website.
+#You need URL of our current running Server and API key of our Website.
 
 > ⚠️ This file is private and is excluded from version control using .gitignore.
 
