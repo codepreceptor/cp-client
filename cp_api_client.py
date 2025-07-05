@@ -34,6 +34,7 @@ def validate_api(server_url, api_key):
         return None
 
 def prompt_and_save_config():
+    print('Script is under Development Phase, So you may need to manually fetch backened Source.')
     server_url = input("Enter your server URL (e.g., https://codepreceptor.com): ").strip().rstrip("/")
     api_key = input("Enter your API key: ").strip()
     tools = validate_api(server_url, api_key)
