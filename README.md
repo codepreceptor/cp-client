@@ -15,7 +15,7 @@ This Python script (`cp_api_client.py`) is a lightweight client to interact with
 - 📊 Future-ready for usage analytics
 
 ---
-
+---
 ## 📦 Requirements
 
 - Python 3.6 or above
@@ -25,8 +25,14 @@ This Python script (`cp_api_client.py`) is a lightweight client to interact with
 pip install requests
 ```
 ---
-
+---
 ###📄 Usage Section
+
+##You need URL of our current running Server and API key of our Website.
+
+> ⚠️ This file is private and is excluded from version control using .gitignore.
+
+
 
 # 🧠 CP Client - API Script
 
@@ -51,7 +57,7 @@ View the response from the API
 
 
 ---
-
+---
 ## 🔐 Security Advice
 
 - Never share your `.cp_config.json` file or API key publicly.
@@ -60,7 +66,7 @@ View the response from the API
 
 
 ---
-
+---
 ## 🧑‍💻 Author Section
 
 **Code Preceptor** 
@@ -71,9 +77,4 @@ View the response from the API
 
 
 
----
 
-##You need URL of our current running Server and API key of our Website.
-
-> ⚠️ This file is private and is excluded from version control using .gitignore.
----
