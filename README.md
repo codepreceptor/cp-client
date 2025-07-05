@@ -26,20 +26,17 @@ pip install requests
 ```
 ---
 
-# 📄 Usage Section
-
-### You need URL of our current running Server and API key of our Website.
-
-> ⚠️ This file is private and is excluded from version control using .gitignore.
-
-
 
 # 🧠 CP Client - API Script
 
 This Python script (`cp_api_client.py`) is a lightweight client to interact with the **Code Preceptor API** — providing various developer tools such as URL shortening, IP lookup, hash generation, and more.
 
 
-## 💡 How to Use
+# 💡 How to Use
+
+### You need URL of our current running Server and API key of our Website.
+
+> To Get URL, contact User on Telegram [ t.me/codepreceptor2 ]
 
 Run the script from your terminal:
 
@@ -47,6 +44,8 @@ Run the script from your terminal:
 python cp_api_client.py
 ```
 ### You'll be prompted to:
+
+> For first time, it will ask for URL and API.
 
 > Select an action (e.g., shorten a URL, lookup IP, etc.)
 
